@@ -1,0 +1,8 @@
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\tpmodul3_1302204034\tpmodul3_1302204034\bin\Debug\tpmodul3_1302204034.exe.config
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\tpmodul3_1302204034\tpmodul3_1302204034\bin\Debug\tpmodul3_1302204034.exe
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\tpmodul3_1302204034\tpmodul3_1302204034\bin\Debug\tpmodul3_1302204034.pdb
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\tpmodul3_1302204034\tpmodul3_1302204034\obj\Debug\tpmodul3_1302204034.csproj.AssemblyReference.cache
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\tpmodul3_1302204034\tpmodul3_1302204034\obj\Debug\tpmodul3_1302204034.csproj.SuggestedBindingRedirects.cache
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\tpmodul3_1302204034\tpmodul3_1302204034\obj\Debug\tpmodul3_1302204034.csproj.CoreCompileInputs.cache
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\tpmodul3_1302204034\tpmodul3_1302204034\obj\Debug\tpmodul3_1302204034.exe
+D:\kuliah coding\semester 4\Konstruksi Perangkat Lunak\tpmodul3_1302204034\tpmodul3_1302204034\obj\Debug\tpmodul3_1302204034.pdb
